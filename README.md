@@ -1,4 +1,4 @@
-#Workspace renamer for BD Influx running Sortware v1.2.0.142
+# Workspace renamer for BD Influx running Sortware v1.2.0.142
 
 Copyright (c) 2017 Genome Research Ltd.
 
@@ -11,9 +11,9 @@ BD Sortware for the Influx names all its files with non-descriptive names, howev
 
 This script renames all XML files in its folder and subfolders to the 'name' tag of the file.  
 
-####DO NOT do this on your working workspace directory.  Make a copy of it and do it there.
+#### DO NOT do this on your working workspace directory.  Make a copy of it and do it there.
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 This script uses Python V3.
 
 Place the .py file into the top folder of your saved workspaces, which can be found in the BD folder.
