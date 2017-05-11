@@ -11,7 +11,7 @@ BD Sortware for the Influx names all its files with non-descriptive names, howev
 
 This script renames all XML files in its folder and subfolders to the 'name' tag of the file.  
 
-#### DO NOT do this on your working workspace directory.  Make a copy of it and do it there.
+It is recommended taht you test the script first or use it on a backed up data.
 
 ## INSTRUCTIONS
 This script uses Python V3.
@@ -20,7 +20,7 @@ Place the .py file into the top folder of your saved workspaces, which can be fo
 
 Run the script.
 
-The script will then rename all the files form configuration1.xml to whatever is in the 'Name' tag in the xml file. 
+The script will then rename all the files from configuration1.xml to whatever is in the 'Name' tag in the xml file. 
 
 If you have 2 files with the same 'name' tag then the script will add a random number to prevent overwriting.
 
