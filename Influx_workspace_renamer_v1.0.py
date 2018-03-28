@@ -1,14 +1,8 @@
-#Copyright (c) 2017 Genome Research Ltd.
-
 #Workspace renamer for BD Influx running Sortware v1.2.0.142
 #v1.0 Jun 2017
 #Python 3.6 (2017)
 #Author : Christopher Hall, Wellcome Trust Sanger Institute, christopher.hall@sanger.ac.uk
-
-#This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
-#This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-#You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
-
+#License : GPLv3 https://www.gnu.org/licenses/gpl-3.0.html
 
 #This script renames all XML files in its folder and subfolders to the 'name' tag of the file.  
 #DO NOT do this on your working workspace directory.  Make a copy of it and do it there
