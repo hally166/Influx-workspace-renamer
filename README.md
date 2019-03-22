@@ -14,6 +14,9 @@ This script renames all XML files in its folder and subfolders to the 'name' tag
 It is recommended taht you test the script first or use it on a backed up data.
 
 ## INSTRUCTIONS
+
+Video instructions: https://youtu.be/hUFP-CFwYOk 
+
 This script uses Python V3.
 
 Place the .py file into the top folder of your saved workspaces, which can be found in the BD folder.
